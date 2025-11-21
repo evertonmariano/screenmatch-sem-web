@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/screenmach/screenmach.iml" filepath="$PROJECT_DIR$/screenmach/screenmach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/screenmatch.iml" filepath="$PROJECT_DIR$/.idea/screenmatch.iml" />
+    </modules>
+  </component>
+</project>
